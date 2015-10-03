@@ -1,0 +1,7 @@
+{
+  "name": "ndalpha",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Dummy dockerized node.js app",
+  "author": "Sylvain Bellemare <sbellem@gmail.com"
+}
